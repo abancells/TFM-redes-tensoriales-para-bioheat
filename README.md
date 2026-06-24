@@ -13,3 +13,11 @@ En este repositorio encontrarás los notebook, programados en julia, correspondi
    + Evolución temporal de biocalor lineal mediante Crank-Nicolson
    + Evolución temporal de biocalor no lineal mediante aproximaciones de Picard y Crank-Nicolson
    + Evolución temporal de biocalor no lineal mediante distintos métodos numéricos
+* Implementación de MPS. Todos empiezan con 1 (11, 12, ..., hasta 17):
+   + Funciones exponenciales, trigonométricas, hipérbólicas, polinómicas.
+   + Series de Taylor (gaussiana y función de Bessel $J_0$.
+   + Polinomios de Legendre y Chebishev
+   + Series de Fourier
+   + Condiciones de contoro sobre un fondo
+   + Gaussiana a partir de la transformada de Fourier
+   + Aproximación de una hipergaussiana mediante Hankel-SVD
