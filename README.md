@@ -6,7 +6,7 @@ En este repositorio encontrarás los notebook, programados en julia, correspondi
    + DMRG
    + TEDB
    + TDVP
-* Implementación de métodos clásicos para resolver la ecuación de biocalor. Todos empiezan con 0:
+* Implementación de métodos clásicos para resolver la ecuación de biocalor. Todos empiezan con 0 (00, 01, ..., hasta 07):
    + Filtrado
    + Biocalor lineal estacionario
    + Biocalor no lineal estacionario
